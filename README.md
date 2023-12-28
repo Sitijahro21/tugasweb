@@ -1,5 +1,5 @@
 # tugasweb
 Tugas Praktikum Web
 
-![Alt Text]("C:\Users\szmau\OneDrive\Pictures\Screenshots\Screenshot (284).png")
+![Alt Text](https://github.com/Sitijahro21/tugasweb/blob/main/Screenshot%20(284).png?raw=true)
 
